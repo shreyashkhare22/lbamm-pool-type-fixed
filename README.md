@@ -1,0 +1,1 @@
+# lbamm-pool-type-fixed
